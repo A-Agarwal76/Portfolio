@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Nehil Chandrakar",
-  description: "Life is This , I Like this",
+  title: "Aditya Agarwal - AI/ML Developer & IoT Engineer",
+  description: "AI/ML enthusiast building intelligent systems and innovative solutions through computer vision, IoT, and mobile development.",
 };
 
 export default function RootLayout({

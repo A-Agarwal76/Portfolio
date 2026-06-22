@@ -115,22 +115,10 @@ export default function ConnectPage() {
                     LinkedIn
                   </Link>
                 </Button>
-                <Button asChild variant="outline" className="border-zinc-700/70 bg-zinc-900/40 hover:bg-zinc-800/40 ">
-                  <Link href={socials.x} target="_blank" aria-label="X profile" className="text-white">
-                    <X className="mr-2 h-4 w-4" />
-                    X
-                  </Link>
-                </Button>
                 <Button asChild variant="outline" className="border-zinc-700/70 bg-zinc-900/40 hover:bg-zinc-800/40">
                   <Link href={socials.github} target="_blank" aria-label="GitHub profile" className="text-white">
                     <Github className="mr-2 h-4 w-4" />
                     GitHub
-                  </Link>
-                </Button>
-                <Button asChild variant="outline" className="border-zinc-700/70 bg-zinc-900/40 hover:bg-zinc-800/40">
-                  <Link href={socials.leetcode} target="_blank" aria-label="LeetCode profile" className="text-white">
-                    <Code2 className="mr-2 h-4 w-4" />
-                    LeetCode
                   </Link>
                 </Button>
               </CardContent>
@@ -143,7 +131,7 @@ export default function ConnectPage() {
                 <CardTitle className="text-zinc-200">What can we build together?</CardTitle>
               </CardHeader>
               <CardContent className="text-zinc-300">
-                I specialize in systems design, scalable backends, and human-centered interfaces. If your project needs thoughtful engineering and a high bar for craft, drop me a note — I usually respond within a day.
+                I specialize in AI/ML systems, IoT development, and mobile applications. If your project needs intelligent automation, computer vision, or innovative mobile solutions, drop me a note — I usually respond within a day.
               </CardContent>
             </Card>
           </GlowCard>
