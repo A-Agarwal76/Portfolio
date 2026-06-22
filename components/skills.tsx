@@ -2,10 +2,10 @@
 
 import { useMemo, useState } from "react"
 import { motion, AnimatePresence } from "framer-motion"
-import { Badge } from "@/components/ui/badge"
+
 import { siteConfig } from "@/lib/site-config"
 import { cn } from "@/lib/utils"
-import { Code2, Smartphone, Brain, Zap, Database, Cloud, Cpu, Globe, Shield, Rocket, Eye, Terminal } from 'lucide-react'
+import { Code2, Smartphone, Brain, Database, Cloud, Cpu, Shield, Rocket, Eye, Terminal } from 'lucide-react'
 
 const categories = [
   { id: "Languages", icon: Code2, color: "from-blue-500 to-cyan-500", bgColor: "from-blue-500/10 to-cyan-500/10" },

@@ -78,7 +78,7 @@ export function NavBar({
               size="sm" 
               className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 border-0 shadow-lg shadow-blue-500/25 hover:scale-105 transition-all duration-300"
             >
-              <Link href="/connect">Let's Talk</Link>
+              <Link href="/connect">Let&apos;s Talk</Link>
             </Button>
           </div>
 
@@ -128,7 +128,7 @@ export function NavBar({
                   className="w-full bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 border-0"
                 >
                   <Link href="/connect" onClick={() => setIsMobileMenuOpen(false)}>
-                    Let's Talk
+                    Let&apos;s Talk
                   </Link>
                 </Button>
               </div>

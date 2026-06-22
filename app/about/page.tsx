@@ -332,7 +332,6 @@ export default function AboutPage() {
             const borderColor = isAI
               ? "border-purple-500/30 hover:border-purple-400/50"
               : "border-blue-500/30 hover:border-blue-400/50"
-            const accentColor = isAI ? "text-purple-400" : "text-blue-400"
             const badgeBg = isAI
               ? "bg-purple-500/20 text-purple-300 border-purple-500/30"
               : "bg-blue-500/20 text-blue-300 border-blue-500/30"

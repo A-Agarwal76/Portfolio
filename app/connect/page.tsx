@@ -6,7 +6,7 @@ import { NavBar } from "@/components/nav-bar"
 import { Footer } from "@/components/footer"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
-import { Mail, Phone, MapPin, Copy, Linkedin, Github, Code2, X } from 'lucide-react'
+import { Mail, Phone, MapPin, Copy, Linkedin, Github } from 'lucide-react'
 import { useState } from "react"
 import { siteConfig } from "@/lib/site-config"
 import { Cursor } from "@/components/cursor"

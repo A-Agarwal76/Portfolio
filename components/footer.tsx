@@ -3,7 +3,7 @@
 import Link from "next/link"
 import { siteConfig } from "@/lib/site-config"
 import { motion } from "framer-motion"
-import { Heart, Github, Linkedin, Mail, MessageCircle } from 'lucide-react'
+import { Heart, Github, Linkedin, Mail } from 'lucide-react'
 
 export function Footer() {
   const currentYear = new Date().getFullYear()

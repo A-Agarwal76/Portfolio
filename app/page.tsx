@@ -47,7 +47,7 @@ export default function Page() {
                 >
                   <Link href="/connect">
                     <MessageCircle className="mr-2 h-4 w-4 group-hover:rotate-12 transition-transform" />
-                    Let's Connect
+                    Let&apos;s Connect
                     <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" />
                   </Link>
                 </Button>
@@ -170,7 +170,7 @@ export default function Page() {
                 transition={{ duration: 0.6, delay: 0.4 }}
                 className="text-xl text-zinc-400 mb-10 max-w-3xl mx-auto leading-relaxed"
               >
-                Let's collaborate on innovative projects that push the boundaries of technology
+                Let&apos;s collaborate on innovative projects that push the boundaries of technology
               </motion.p>
               <motion.div
                 initial={{ opacity: 0, y: 20 }}
