@@ -42,9 +42,7 @@ export function Footer() {
               <Link href="/projects" className="text-sm text-zinc-400 hover:text-zinc-200 transition-colors">
                 Projects
               </Link>
-              <Link href="/gallery" className="text-sm text-zinc-400 hover:text-zinc-200 transition-colors">
-                Gallery
-              </Link>
+
               <Link href="/connect" className="text-sm text-zinc-400 hover:text-zinc-200 transition-colors">
                 Connect
               </Link>
